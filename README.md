@@ -1,3 +1,4 @@
+![house-sale-1200xx1200](https://user-images.githubusercontent.com/102948566/178131259-b3957525-9944-4150-9609-30812c8d3ab0.jpg)
 
 # Ames Housing Price Prediction
 
